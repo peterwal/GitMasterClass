@@ -1,2 +1,4 @@
 partner 1
 partner 2
+
+add partner 3
