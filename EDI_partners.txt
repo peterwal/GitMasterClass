@@ -6,3 +6,5 @@ add partner 3
 add partner 4
 
 add partner 5
+
+add partner 6
