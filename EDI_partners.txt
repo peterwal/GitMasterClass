@@ -8,3 +8,5 @@ add partner 4
 add partner 5
 
 add partner 6
+
+add partner 7
