@@ -10,3 +10,5 @@ add partner 5
 add partner 6
 
 add partner 7
+
+add partner 8
