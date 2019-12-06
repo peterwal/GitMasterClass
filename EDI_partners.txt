@@ -12,3 +12,5 @@ add partner 6
 add partner 7
 
 add partner 8
+
+commit from github: add partner 9
