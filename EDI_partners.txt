@@ -20,3 +20,5 @@ commit from github: add partner 10
 add partner 11
 
 commit from github: add partner 12
+
+commit from github: add partner 13
